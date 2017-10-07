@@ -1,0 +1,10 @@
+gconf-service
+libasound2
+libgconf-2-4
+libnspr4
+libxss1
+libxtst6
+fonts-liberation
+libappindicator1
+libnss3
+xdg-utils

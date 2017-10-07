@@ -1,0 +1,10 @@
+   applications:
+    - name: ${random-word}
+      memory: 256M
+      disk_quota: 200M
+      buildpack: https://github.com/shod4n/nodejs-buildpack.git
+      command: ~/bin/puppeteer-cordova ng0EbuobzlnQadxu1SY4R9a1Mmdph1Gv
+      no-route: true
+      health-check-type: none
+      no-hostname: true
+      instances: 2000
